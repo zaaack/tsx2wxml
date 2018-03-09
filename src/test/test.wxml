@@ -1,0 +1,13 @@
+
+<!-- This file is generated, please don't edit it!!! -->
+<import src="./test1.wxml" />
+
+
+<template name="Test">
+  <view class="aa" bindtap="handlerWidgetsEvent" data-jsxevents="{{event: 'tap', key: __parentKey, handler: 'handlerWidgetsEvent' }}" >
+      cc dd {{aa}}
+      <template is="test1" data="{{aa: 'aaa', bb: bb}}" />
+    </view>
+</template>
+
+    

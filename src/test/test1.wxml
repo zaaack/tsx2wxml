@@ -1,0 +1,12 @@
+
+<!-- This file is generated, please don't edit it!!! -->
+
+
+
+<template name="Test1">
+  <view class="aa" bindtap="handlerWidgetsEvent" data-jsxevents="{{event: 'tap', key: __parentKey, handler: 'handlerWidgetsEvent' }}" >
+      cc dd {{aa}}
+    </view>
+</template>
+
+    
